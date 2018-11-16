@@ -1,0 +1,13 @@
+[package]
+name = "gitGraphChain"
+version = "0.1.0"
+authors = ["ncantu <nicolas.cantu@chainaccelerator.com>"]
+edition = "2018"
+
+[dependencies]
+sha2 = "0.8.0"
+time = "0.1.40"
+chrono = "0.4.6"
+itertools = "0.7.8"
+hmac = "0.7.0"
+digest = "0.8.0"
